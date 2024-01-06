@@ -5,5 +5,5 @@ A simple template for my own personal projects. Best used with [cruft](https://t
 To use:
 
 ```bash
-cruft create https://github.com/timothycrosley/cookiecutter-python/
+cruft create https://github.com/m4tx/project-template/
 ```
