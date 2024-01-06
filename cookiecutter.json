@@ -1,0 +1,11 @@
+{
+    "full_name": "Mateusz Maćkowski",
+    "email": "mateusz@mackowski.org",
+    "github_username": "m4tx",
+    "project_name": "my-project",
+    "project_short_description": "My new project.",
+    "crate_name": "{{ cookiecutter.project_name|replace('-rs', '') }}",
+    "founding_year": "{% now 'local', '%Y' %}",
+    "project_type": ["library", "binary"],
+    "license": ["MIT", "GNU GPL v3"]
+}
